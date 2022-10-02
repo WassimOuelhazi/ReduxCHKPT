@@ -1,0 +1,32 @@
+input{
+    height: 40px;
+    border-radius: 20px 0 0  20px ;
+    width: 100%;
+    border : solid 0.1px rgba(199, 199, 202, 0.772);
+
+   
+   
+
+}
+
+
+.Addtask{
+display: flex;
+flex-direction: row;
+margin : 30px ;
+
+    
+}
+
+
+.addBut{
+
+    background-color:#282c34;
+    width:40px;
+    color:white;
+    border-radius: 0 20px 20px 0 ;
+    border:none;
+
+}
+
+
